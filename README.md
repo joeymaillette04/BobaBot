@@ -19,5 +19,5 @@ All information on the project can be found in the [Report](https://github.com/j
 ...  and the list continues!
 
 ### Technology Stack
-BobaBot was created using the LEGO EV3 Mindstorms kit, and was programmed using ROBOTC, a text-based programming language specific to EV3 that is based of off C. Too view in-depth code view the [main.c file](https://github.com/joeymaillette04/BobaBot/blob/main/main.c).
+BobaBot was created using the LEGO EV3 Mindstorms kit, and was programmed using ROBOTC, a text-based programming language specific to EV3 that is based of off C. To view in-depth code view the [main.c file](https://github.com/joeymaillette04/BobaBot/blob/main/main.c).
 
