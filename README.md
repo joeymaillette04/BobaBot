@@ -1,4 +1,4 @@
-# BobaBot - Boba Delivery Service
+# BobaBot - Autonomous Drink Delivery System
 <p align="center">
   <img width="800" height="620" src="https://user-images.githubusercontent.com/71158927/212143756-8539a689-1abd-463c-911c-c39c97690b4b.png">
 </p>
